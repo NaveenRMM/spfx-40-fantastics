@@ -29,6 +29,7 @@
       "enableProgressIndicator": false,
       "textPanelEnable": true,
       "textPanelAlwaysOnTop": true,
+      "supportsFullBleed": true,
       "textPanelOpacity": 0.4,
       "items": [
         {
